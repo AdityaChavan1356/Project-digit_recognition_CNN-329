@@ -57,7 +57,7 @@ This project aims to provide a clear and concise implementation of a digit recog
 4.  **View Results:** The script will display evaluation metrics and visualize predictions.
 5.  **Use the trained model:** The script will save the trained model, which can be loaded and used for digit recognition in other applications.
 
-**Future Enhancements**
+#**Future Enhancements**
 
 -Improve recognition accuracy for various digit styles and image qualities.
 
@@ -71,7 +71,7 @@ This project aims to provide a clear and concise implementation of a digit recog
 
 -Implement data augmentation to improve model robustness.
 
-Output-
+#Output-
 
 ![Screenshot 2025-03-13 142840](https://github.com/user-attachments/assets/b3657450-34e5-4681-8f75-ff0a8343248a)
 
